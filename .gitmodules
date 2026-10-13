@@ -1,7 +1,7 @@
 [submodule "sdk"]
 	path = sdk
-	url = https://github.com/Penglai-Enclave/penglai-sdk.git
-	branch = master
+	url = https://github.com/Zzhangchi/penglai-sdk.git
+	branch = dev
 [submodule "riscv-qemu"]
 	path = riscv-qemu
 	url = https://github.com/Penglai-Enclave/penglai-qemu.git
